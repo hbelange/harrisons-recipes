@@ -1,0 +1,28 @@
+body {
+    background: palegoldenrod;
+}
+
+
+h1, h2 {
+    color: whitesmoke;
+    background: dimgray;
+    text-align: center;
+}
+
+li, p {
+    color: dimgray;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.homepage li {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cookies, .pancakes, .home {
+    width: 500px;
+    height: auto;
+}
+
